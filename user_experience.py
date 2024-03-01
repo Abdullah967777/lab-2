@@ -275,9 +275,7 @@ print(response)
 print("Player's turn:")
 response, remaining_skips = skip_question(question2, remaining_skips)
 print(response)
-    #------------------------
-    raise NotImplementedError("This function is not implemented yet.")
-    #------------------------
+    #------------------------    #------------------------
 
 #---------------------------------------
 
